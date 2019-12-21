@@ -1,0 +1,4 @@
+---
+slug: qlik
+name: Qlik
+---
